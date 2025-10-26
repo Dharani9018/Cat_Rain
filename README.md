@@ -1,6 +1,6 @@
 # This repository contains a C program that mimics raining of colorful unicode/glyph cats:
 
-(./catrain.mp4)
+(./image.png)
 
 ## To implement the code, make sure `gcc`,`ncurses`,`nerd-fonts-jetbrains-mono`(or any nerd font of your choice).
 
@@ -18,14 +18,14 @@ git clone https://github.com/Dharani9018/Cat_Rain.git
 gcc -o catrain Cat_Rain.c -lncurses
 ```
 
-## Add this command to your shell config file `~/.bashrc`/`~/.zshrc`
+## Add this command to your shell config file `~/.bashrc` or `~/.zshrc`
 ```shell
 alias catrain  'Replace_with_Your_binary_file_path/catrain.out'.
-
+```
 inspired by [this](https://github.com/nkleemann/ascii-rain)
 
 Thank you.
-```
+
 
 
 
