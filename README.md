@@ -1,6 +1,7 @@
 # This repository contains a C program that mimics raining of colorful unicode/glyph cats:
 
-(./image.png)
+#### [demo_video](./catrain.mp4)
+#### [image](./image.png)
 
 ## To implement the code, make sure `gcc`,`ncurses`,`nerd-fonts-jetbrains-mono`(or any nerd font of your choice).
 
