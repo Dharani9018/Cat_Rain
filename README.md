@@ -3,7 +3,7 @@
 #### [demo_video](./catrain.mp4)
 #### [image](./image.png)
 
-## To implement the code, make sure `gcc`,`ncurses`,`nerd-fonts-jetbrains-mono`(or any nerd font of your choice).
+## To implement the code, make sure `gcc`,`ncurses`,`nerd-fonts-jetbrains-mono`(or any nerd font of your choice) are installed.
 
 ```shell
 #on arch:
