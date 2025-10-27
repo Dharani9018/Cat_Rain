@@ -14,14 +14,18 @@ sudo pacman -S nerd-fonts-jetbrains-mono gcc ncurses
 ```shell
 git clone https://github.com/Dharani9018/Cat_Rain.git
 ```
-## run the code:
+## compile the code:
 ```shell
 gcc -o catrain Cat_Rain.c -lncurses
+```
+## Execute 
+```shell
+catrain
 ```
 
 ## Add this command to your shell config file `~/.bashrc` or `~/.zshrc`
 ```shell
-alias catrain  'Replace_with_Your_binary_file_path/catrain.out'.
+alias catrain  'Replace_with_Your_binary_file_path/catrain'.
 ```
 inspired by [this](https://github.com/nkleemann/ascii-rain)
 
