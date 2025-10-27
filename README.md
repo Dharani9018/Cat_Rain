@@ -23,7 +23,7 @@ gcc -o catrain Cat_Rain.c -lncurses
 catrain
 ```
 
-## Add this command to your shell config file `~/.bashrc` or `~/.zshrc`
+## Add this line to your shell config file `~/.bashrc` or `~/.zshrc`
 ```shell
 alias catrain  'Replace_with_Your_binary_file_path/catrain'.
 ```
