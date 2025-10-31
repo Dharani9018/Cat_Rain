@@ -1,4 +1,4 @@
-# This repository contains a C program that mimics raining of colorful unicode/glyph cats:
+# This repository contains a C program that simulates raining of colorful unicode/glyph cats:
 
 #### [demo_video](./catrain.mp4)
 #### [image](./image.png)
