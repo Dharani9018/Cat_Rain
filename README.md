@@ -27,7 +27,6 @@ catrain
 ```shell
 alias catrain  'Replace_with_Your_binary_file_path/catrain'.
 ```
-inspired by [this](https://github.com/nkleemann/ascii-rain)
 
 Thank you.
 
